@@ -13,4 +13,4 @@ import Foundation
 // https://www.themoviedb.org/settings/api
 
 /// Key to access API call
-let apiKey = "e325ed91743acc1b8f7327898262f91f"
+let apiKey = "FAKEAPIKEY"
